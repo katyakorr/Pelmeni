@@ -653,7 +653,7 @@ h3 {
   grid-template-columns: repeat(3, 375px);
   justify-content: center;
   gap: 46px;
-  margin-top: 67px;
+  margin-top: 144px;
 }
 
 .feature-card {
@@ -1673,15 +1673,6 @@ body.page-leaving {
 
 .feature-card:hover::before {
   filter: drop-shadow(0 4px 48px rgba(161, 136, 136, 0.4));
-}
-
-.feature-card:hover .feature-card__icon {
-  background: #f9f5f0;
-}
-
-.feature-card:hover .feature-card__icon img {
-  filter: brightness(0) saturate(100%) invert(55%) sepia(10%) saturate(638%) hue-rotate(314deg) brightness(90%) contrast(84%);
-  transform: scale(1.06);
 }
 
 @keyframes atmosphereCarousel {
