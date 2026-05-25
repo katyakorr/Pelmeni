@@ -1,0 +1,318 @@
+/* КарусельАтмосфера */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1972px;
+height: 919px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Property 1=КарусельАтмосфера */
+
+position: absolute;
+width: 1932px;
+height: 378px;
+left: 20px;
+top: 20px;
+
+
+
+/* 6 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 1630px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_28_39.png);
+border-radius: 25px;
+
+
+/* 5 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 1304px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_32_32.png);
+border-radius: 25px;
+
+
+/* 4 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 978px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_37_59.png);
+border-radius: 25px;
+
+
+/* 3 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 652px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_29_56.png);
+border-radius: 25px;
+
+
+/* 2 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 326px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_39_50.png);
+border-radius: 25px;
+
+
+/* 1 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 0px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 14_53_17.png);
+border-radius: 25px;
+
+
+/* коп6 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -326px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_28_39.png);
+border-radius: 25px;
+
+
+/* коп5 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -652px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_32_32.png);
+border-radius: 25px;
+
+
+/* коп4 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -978px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_37_59.png);
+border-radius: 25px;
+
+
+/* коп3 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -1304px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_29_56.png);
+border-radius: 25px;
+
+
+/* коп2 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -1630px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_39_50.png);
+border-radius: 25px;
+
+
+/* коп1 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: -1956px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 14_53_17.png);
+border-radius: 25px;
+
+
+/* Property 1=КарусельАтмосфера2 */
+
+position: absolute;
+width: 1932px;
+height: 378px;
+left: 20px;
+top: 477px;
+
+
+
+/* 6 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 3586px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_28_39.png);
+border-radius: 25px;
+
+
+/* 5 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 3260px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_32_32.png);
+border-radius: 25px;
+
+
+/* 4 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 2934px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_37_59.png);
+border-radius: 25px;
+
+
+/* 3 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 2608px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_29_56.png);
+border-radius: 25px;
+
+
+/* 2 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 2282px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_39_50.png);
+border-radius: 25px;
+
+
+/* 1 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 1956px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 14_53_17.png);
+border-radius: 25px;
+
+
+/* коп6 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 1630px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_28_39.png);
+border-radius: 25px;
+
+
+/* коп5 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 1304px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_32_32.png);
+border-radius: 25px;
+
+
+/* коп4 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 978px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_37_59.png);
+border-radius: 25px;
+
+
+/* коп3 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 652px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_29_56.png);
+border-radius: 25px;
+
+
+/* коп2 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 326px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 15_39_50.png);
+border-radius: 25px;
+
+
+/* коп1 */
+
+position: absolute;
+width: 302px;
+height: 378px;
+left: 0px;
+top: 0px;
+
+background: url(ChatGPT Image 25 апр. 2026 г., 14_53_17.png);
+border-radius: 25px;

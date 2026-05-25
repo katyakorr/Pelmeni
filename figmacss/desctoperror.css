@@ -1,0 +1,1180 @@
+/* Компьютер3 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+/* Warm Neutral/Pink background */
+background: #FFF2F7;
+
+
+/* Ellipse 65 */
+
+position: absolute;
+width: 1038px;
+height: 527px;
+left: 1057px;
+top: 844px;
+
+/* Warm Neutral/Background warm */
+background: #FFF7FA;
+
+
+/* Group 20 */
+
+position: absolute;
+width: 1018px;
+height: 128px;
+left: calc(50% - 1018px/2);
+top: calc(50% - 128px/2 + 6px);
+
+
+
+/* Страница находится в разработке */
+
+position: absolute;
+width: 1018px;
+height: 70px;
+left: calc(50% - 1018px/2);
+top: 482px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 110%;
+/* or 70px */
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+
+/* Пожалуйста, вернитесь позже */
+
+position: absolute;
+width: 593px;
+height: 46px;
+left: calc(50% - 593px/2 + 0.5px);
+top: 564px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 110%;
+/* or 46px */
+
+/* Primary Green/500 */
+color: #737B5F;
+
+
+
+/* CryHippo */
+
+position: absolute;
+width: 360px;
+height: 360px;
+left: 1257px;
+top: 647px;
+
+background: url(20260313_2033_Плачущий Детёныш Бегемота_simple_compose_01kkm44e6ffmzts8qzxmsr91qg.png);
+
+
+/* пиксели */
+
+position: absolute;
+width: 685px;
+height: 790.38px;
+left: -171px;
+top: 511px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 735.81px);
+top: 511px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 841.19px);
+top: 511px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 683.12px);
+top: 563.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 - 788.5px);
+top: 563.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 893.89px);
+top: 563.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 683.12px);
+top: 669.08px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 893.89px);
+top: 669.08px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 735.81px);
+top: 721.77px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 841.19px);
+top: 721.77px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 525.04px);
+top: 774.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 630.42px);
+top: 774.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 105.38px;
+left: calc(50% - 52.69px/2 - 788.5px);
+top: 774.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 472.35px);
+top: 827.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 - 577.73px);
+top: 827.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 683.12px);
+top: 827.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 946.58px);
+top: 827.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 1051.96px);
+top: 827.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 316.15px;
+left: calc(50% - 158.08px/2 - 893.88px);
+top: 879.85px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 - 999.27px);
+top: 879.85px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 1104.65px);
+top: 879.85px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 472.35px);
+top: 932.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 683.12px);
+top: 932.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 525.04px);
+top: 985.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 630.42px);
+top: 985.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 105.38px;
+left: calc(50% - 52.69px/2 - 735.81px);
+top: 985.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 1104.65px);
+top: 985.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 1051.96px);
+top: 1037.92px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 788.5px);
+top: 1090.62px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 - 946.58px);
+top: 1196px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 52.69px;
+left: calc(50% - 158.08px/2 - 1051.96px);
+top: 1248.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* пиксели */
+
+position: absolute;
+width: 685px;
+height: 790.38px;
+left: 1404px;
+top: -244px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 733.81px);
+top: 493.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 839.19px);
+top: 493.69px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 681.12px);
+top: 441px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 + 786.5px);
+top: 335.61px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 891.89px);
+top: 441px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 681.12px);
+top: 335.61px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 891.89px);
+top: 335.61px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 733.81px);
+top: 282.92px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 839.19px);
+top: 282.92px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 523.04px);
+top: 230.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 628.42px);
+top: 230.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 105.38px;
+left: calc(50% - 52.69px/2 + 786.5px);
+top: 177.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 470.35px);
+top: 177.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 + 575.73px);
+top: 72.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 681.12px);
+top: 177.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 944.58px);
+top: 177.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 1049.96px);
+top: 177.54px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 316.15px;
+left: calc(50% - 158.08px/2 + 891.88px);
+top: -138.62px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 158.08px;
+left: calc(50% - 158.08px/2 + 997.27px);
+top: 19.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 1102.65px);
+top: 124.84px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 470.35px);
+top: 72.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 681.12px);
+top: 72.15px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 523.04px);
+top: 19.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 628.42px);
+top: 19.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 105.38px;
+left: calc(50% - 52.69px/2 + 733.81px);
+top: -33.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 1102.65px);
+top: 19.46px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 1049.96px);
+top: -33.23px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 786.5px);
+top: -85.92px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 52.69px;
+height: 52.69px;
+left: calc(50% - 52.69px/2 + 944.58px);
+top: -191.31px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 158.08px;
+height: 52.69px;
+left: calc(50% - 158.08px/2 + 1049.96px);
+top: -244px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Сакура Меню */
+
+position: absolute;
+width: 743px;
+height: 292px;
+left: -15px;
+top: 44px;
+
+background: url(ChatGPT Image 10 мая 2026 г., 17_38_38.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector 9 */
+
+position: absolute;
+width: 27px;
+height: 28px;
+left: 356px;
+top: 359px;
+
+background: #FECAD2;
+border: 0.2px solid #F995A7;
+
+
+/* Vector 10 */
+
+position: absolute;
+width: 27px;
+height: 28px;
+left: 589.15px;
+top: 156.73px;
+
+background: #FECAD2;
+border: 0.2px solid #F995A7;
+transform: rotate(51.76deg);
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 27px;
+height: 28px;
+left: 582px;
+top: 370px;
+
+background: #FECAD2;
+border: 0.2px solid #F995A7;
+transform: rotate(105.32deg);
+
+
+/* Vector 12 */
+
+position: absolute;
+width: 27px;
+height: 28px;
+left: 1527px;
+top: 587px;
+
+background: #FECAD2;
+border: 0.2px solid #F995A7;
+transform: rotate(105.32deg);
+
+
+/* Vector 13 */
+
+position: absolute;
+width: 27px;
+height: 28px;
+left: 1581px;
+top: 626px;
+
+background: #FECAD2;
+border: 0.2px solid #F995A7;
+transform: rotate(161.72deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 39.87px;
+height: 38.23px;
+left: calc(50% - 39.87px/2 - 565.07px);
+top: 626px;
+
+background: #FECDD3;
+transform: rotate(-33.69deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 63.19px;
+height: 60.6px;
+left: calc(50% - 63.19px/2 + 554.59px);
+top: 319px;
+
+background: #FECDD3;
+transform: rotate(-33.69deg);
+
+
+/* Шапка */
+
+position: absolute;
+width: 1920px;
+height: 107px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 125 */
+
+position: absolute;
+width: 1920px;
+height: 107px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.7);
+
+
+/* лого */
+
+position: absolute;
+width: 224px;
+height: 40px;
+left: calc(50% - 224px/2 - 524px);
+top: 32px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* контакты */
+
+position: absolute;
+width: 129px;
+height: 33px;
+left: 1473px;
+top: 42px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 129px;
+height: 33px;
+left: 1473px;
+top: 42px;
+
+filter: drop-shadow(0px 0px 16.4px rgba(255, 255, 255, 0.39));
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 529.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Ellipse 50 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 577.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Ellipse 51 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 625.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: calc(50% - 18px/2 + 528px);
+top: 50px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 19px;
+height: 12px;
+left: calc(50% - 19px/2 + 576.5px);
+top: 53px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* ватсап */
+
+position: absolute;
+width: 19.67px;
+height: 20.34px;
+left: 1576px;
+top: 48px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 10.73px;
+height: 10.69px;
+left: calc(50% - 10.73px/2 + 625.84px);
+top: 52.47px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 19.67px;
+height: 20.34px;
+left: calc(50% - 19.67px/2 + 625.84px);
+top: 48px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* меню */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 483px;
+height: 18px;
+left: calc(50% - 483px/2 + 1px);
+top: 49px;
+
+
+
+/* Главный экран */
+
+width: 151px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* О нас */
+
+width: 57px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Доставка */
+
+width: 92px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Контакты */
+
+width: 93px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;

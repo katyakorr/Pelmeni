@@ -1,0 +1,6233 @@
+/* Компьютер2 */
+
+position: relative;
+width: 1920px;
+height: 2779px;
+
+background: #FFFFFF;
+
+
+/* ОбщийФон */
+
+position: absolute;
+width: 1920px;
+height: 2834px;
+left: 0px;
+top: 0px;
+
+/* Warm Neutral/Pink background */
+background: #FFF2F7;
+
+
+/* Меню */
+
+position: absolute;
+width: 1920px;
+height: 2111px;
+left: calc(50% - 1920px/2);
+top: 136px;
+
+
+
+/* пиксели */
+
+position: absolute;
+width: 799.94px;
+height: 923px;
+left: -127px;
+top: 1173px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 625.5px);
+top: 1173px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 748.56px);
+top: 1173px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 563.96px);
+top: 1234.53px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 - 687.03px);
+top: 1234.53px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 810.1px);
+top: 1234.53px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 563.96px);
+top: 1357.6px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 810.1px);
+top: 1357.6px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 625.5px);
+top: 1419.13px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 748.56px);
+top: 1419.13px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 379.36px);
+top: 1480.67px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 502.43px);
+top: 1480.67px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 123.07px;
+left: calc(50% - 61.53px/2 - 687.03px);
+top: 1480.67px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 317.83px);
+top: 1542.2px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 - 440.9px);
+top: 1542.2px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 563.96px);
+top: 1542.2px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 871.64px);
+top: 1542.2px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 994.7px);
+top: 1542.2px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 369.2px;
+left: calc(50% - 184.6px/2 - 810.1px);
+top: 1603.73px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 - 933.17px);
+top: 1603.73px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 1056.23px);
+top: 1603.73px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 317.83px);
+top: 1665.27px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 563.96px);
+top: 1665.27px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 379.36px);
+top: 1726.8px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 502.43px);
+top: 1726.8px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 123.07px;
+left: calc(50% - 61.53px/2 - 625.5px);
+top: 1726.8px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 1056.23px);
+top: 1726.8px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 994.7px);
+top: 1788.33px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 687.03px);
+top: 1849.87px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 - 871.64px);
+top: 1972.93px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 61.53px;
+left: calc(50% - 184.6px/2 - 994.7px);
+top: 2034.47px;
+
+background: rgba(215, 221, 203, 0.34);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* пиксели */
+
+position: absolute;
+width: 799.94px;
+height: 923px;
+left: 1152px;
+top: 185px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 530.43px);
+top: 185px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 653.5px);
+top: 185px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 468.9px);
+top: 246.53px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 + 591.97px);
+top: 246.53px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 715.04px);
+top: 246.53px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 468.9px);
+top: 369.6px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 715.04px);
+top: 369.6px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 530.43px);
+top: 431.13px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 653.5px);
+top: 431.13px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 284.3px);
+top: 492.67px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 407.37px);
+top: 492.67px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 123.07px;
+left: calc(50% - 61.53px/2 + 591.97px);
+top: 492.67px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 222.77px);
+top: 554.2px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 + 345.83px);
+top: 554.2px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 468.9px);
+top: 554.2px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 776.57px);
+top: 554.2px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 899.63px);
+top: 554.2px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 369.2px;
+left: calc(50% - 184.6px/2 + 715.03px);
+top: 615.73px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 184.6px;
+left: calc(50% - 184.6px/2 + 838.1px);
+top: 615.73px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 961.17px);
+top: 615.73px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 222.77px);
+top: 677.27px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 468.9px);
+top: 677.27px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 284.3px);
+top: 738.8px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 407.37px);
+top: 738.8px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 123.07px;
+left: calc(50% - 61.53px/2 + 530.43px);
+top: 738.8px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 961.17px);
+top: 738.8px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 899.63px);
+top: 800.33px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 591.97px);
+top: 861.87px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 61.53px;
+height: 61.53px;
+left: calc(50% - 61.53px/2 + 776.57px);
+top: 984.93px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Path */
+
+position: absolute;
+width: 184.6px;
+height: 61.53px;
+left: calc(50% - 184.6px/2 + 899.64px);
+top: 1046.47px;
+
+background: rgba(215, 221, 203, 0.34);
+
+
+/* Rectangle 109 */
+
+position: absolute;
+width: 97px;
+height: 37px;
+left: calc(50% - 97px/2 - 468.5px);
+top: 25px;
+
+background: rgba(255, 255, 255, 0.7);
+border-radius: 25px;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 76px;
+
+position: absolute;
+width: 976px;
+height: 18px;
+left: calc(50% - 976px/2 - 1px);
+top: 35px;
+
+
+
+/* Все */
+
+width: 40px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Гедза */
+
+width: 64px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Бао */
+
+width: 41px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Закуски */
+
+width: 90px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Детское */
+
+width: 92px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Десерты */
+
+width: 99px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Напитки */
+
+width: 94px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: calc(50% - 1920px/2);
+top: 84px;
+
+/* Primary Green/400 */
+border: 1px solid #9AA67C;
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 489px);
+top: 145px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 163px);
+top: 145px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_47_58.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 48px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 44px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 163px);
+top: 145px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_51_11.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 48px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 489px);
+top: 145px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_31_33.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 36px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 489px);
+top: 647px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_39_43.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 36px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 163px);
+top: 647px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_00_04.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 44px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 163px);
+top: 647px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_44_20.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 44px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 489px);
+top: 647px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_59_02.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 489px);
+top: 1149px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_53_29.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 45px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 36px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 118px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 240.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 232px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 163px);
+top: 1149px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_55_42.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 44px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 163px);
+top: 1149px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 14_57_09.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 44px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 489px);
+top: 1149px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_02_51.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 43px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 36px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 489px);
+top: 1651px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_04_28.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 43px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 - 163px);
+top: 1651px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_05_17.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 48px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 59px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 163px);
+top: 1651px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_09_47.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 59px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* Блюдо */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 24px 32px;
+gap: 24px;
+
+position: absolute;
+width: 302px;
+height: 460px;
+left: calc(50% - 302px/2 + 489px);
+top: 1651px;
+
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 8px 24px rgba(80, 70, 60, 0.08);
+border-radius: 25px;
+
+
+/* Фото */
+
+width: 254px;
+height: 254px;
+
+background: url(ChatGPT Image 22 апр. 2026 г., 15_08_23.png), url(ChatGPT Image 22 апр. 2026 г., 14_34_11.png);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Информация */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 254px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Текст */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 254px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* НазваниеВес */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 254px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Гедза с курицей */
+
+width: 199px;
+height: 24px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 260 г. */
+
+width: 57px;
+height: 22px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Описание */
+
+width: 254px;
+height: 18px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+/* identical to box height, or 18px */
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Пустота */
+
+width: 248px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Цена */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 114px;
+
+width: 254px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 520 рублей */
+
+width: 120px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* + */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 242.4px;
+top: 1.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(90deg);
+
+
+/* Line 2 (Stroke) */
+
+position: absolute;
+width: 20px;
+height: 3.6px;
+left: 234px;
+top: 9.5px;
+
+/* Brown Accent/Wood */
+background: #A18888;
+border-radius: 10px;
+transform: rotate(-180deg);
+
+
+/* ФонФутер */
+
+position: absolute;
+width: 1920px;
+height: 302px;
+left: 0px;
+top: 2477px;
+
+background: linear-gradient(0deg, #626A51 0%, #737B5F 100%);
+box-shadow: 0px 8px 22.4px rgba(80, 70, 60, 0.5), inset 0px 33px 70.2px rgba(0, 0, 0, 0.13);
+border-radius: 25px 25px 0px 0px;
+
+
+/* Футер */
+
+position: absolute;
+width: 1918px;
+height: 302px;
+left: calc(50% - 1918px/2 + 1px);
+top: 2477px;
+
+
+
+/* Карта */
+
+position: absolute;
+width: 460.32px;
+height: 127.09px;
+left: 621px;
+top: 51px;
+
+
+
+/* Rectangle 111 */
+
+position: absolute;
+width: 460.32px;
+height: 127.09px;
+left: calc(50% - 460.32px/2 - 107.84px);
+top: 51px;
+
+background: url(ChatGPT Image 27 апр. 2026 г., 00_30_54.png);
+border-radius: 25px;
+
+
+/* Лого */
+
+position: absolute;
+width: 186.03px;
+height: 124px;
+left: 343.07px;
+top: 60px;
+
+
+
+/* лого */
+
+position: absolute;
+width: 63.95px;
+height: 64.52px;
+left: 404.11px;
+top: 60px;
+
+
+
+/* Vector 7 (Stroke) */
+
+position: absolute;
+width: 63.95px;
+height: 64.52px;
+left: calc(50% - 63.95px/2 - 522.91px);
+top: 60px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Ellipse 31 */
+
+position: absolute;
+width: 7.07px;
+height: 6.76px;
+left: calc(50% - 7.07px/2 - 514.76px);
+top: 77.51px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Chubby Hippo */
+
+position: absolute;
+width: 186.03px;
+height: 26.74px;
+left: 343.07px;
+top: 141.2px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 14.5px;
+height: 15.14px;
+left: calc(50% - 14.5px/2 - 437.15px);
+top: 147.71px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.57px;
+height: 20.23px;
+left: calc(50% - 15.57px/2 - 454.37px);
+top: 147.71px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.57px;
+height: 20.23px;
+left: calc(50% - 15.57px/2 - 470.93px);
+top: 147.71px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.45px;
+height: 21.09px;
+left: calc(50% - 5.45px/2 - 483.59px);
+top: 141.47px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.46px;
+height: 20.91px;
+left: calc(50% - 17.46px/2 - 497.64px);
+top: 141.65px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.74px;
+height: 19.82px;
+left: calc(50% - 14.74px/2 - 524.06px);
+top: 148.01px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.84px;
+height: 21.65px;
+left: calc(50% - 15.84px/2 - 539.62px);
+top: 141.2px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.84px;
+height: 21.65px;
+left: calc(50% - 15.84px/2 - 556.5px);
+top: 141.2px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.98px;
+height: 14.85px;
+left: calc(50% - 14.98px/2 - 574.01px);
+top: 148.01px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.95px;
+height: 21.33px;
+left: calc(50% - 14.95px/2 - 590.91px);
+top: 141.23px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.21px;
+height: 21.51px;
+left: calc(50% - 17.21px/2 - 607.33px);
+top: 141.35px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Азиатская пельменная */
+
+position: absolute;
+width: 133.29px;
+height: 9.11px;
+left: 368.7px;
+top: 174.89px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 5.19px;
+height: 6.24px;
+left: calc(50% - 5.19px/2 - 459.6px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.04px;
+height: 6.5px;
+left: calc(50% - 5.04px/2 - 466.02px);
+top: 177.5px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.44px;
+height: 6.24px;
+left: calc(50% - 6.44px/2 - 473.34px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.44px;
+height: 6.24px;
+left: calc(50% - 6.44px/2 - 480.64px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.81px;
+height: 6.5px;
+left: calc(50% - 5.81px/2 - 487.13px);
+top: 177.38px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.71px;
+height: 6.24px;
+left: calc(50% - 7.71px/2 - 495.01px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.39px;
+height: 6.24px;
+left: calc(50% - 6.39px/2 - 502.46px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.72px;
+height: 6.34px;
+left: calc(50% - 6.72px/2 - 509.87px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.81px;
+height: 6.5px;
+left: calc(50% - 5.81px/2 - 516.23px);
+top: 177.38px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.46px;
+height: 6.24px;
+left: calc(50% - 6.46px/2 - 523.71px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.19px;
+height: 6.24px;
+left: calc(50% - 5.19px/2 - 534.58px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.04px;
+height: 6.5px;
+left: calc(50% - 5.04px/2 - 540.99px);
+top: 177.5px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.28px;
+height: 6.24px;
+left: calc(50% - 6.28px/2 - 547.26px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.72px;
+height: 6.5px;
+left: calc(50% - 5.72px/2 - 553.71px);
+top: 177.5px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.59px;
+height: 6.24px;
+left: calc(50% - 5.59px/2 - 559.8px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.04px;
+height: 6.5px;
+left: calc(50% - 5.04px/2 - 565.99px);
+top: 177.5px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.44px;
+height: 6.24px;
+left: calc(50% - 6.44px/2 - 573.31px);
+top: 177.62px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.51px;
+height: 6.49px;
+left: calc(50% - 5.51px/2 - 579.65px);
+top: 177.5px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.71px;
+height: 8.97px;
+left: calc(50% - 7.71px/2 - 586.44px);
+top: 174.89px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Перейти в */
+
+position: absolute;
+width: 127.09px;
+height: 145px;
+left: 1183.66px;
+top: 51px;
+
+
+
+/* Перейти в */
+
+position: absolute;
+width: 114.08px;
+height: 24px;
+left: calc(50% - 114.08px/2 + 281.7px);
+top: 51px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Белый */
+color: #FFFFFF;
+
+
+
+/* Главная страница О нас Преимущества Меню Доставка */
+
+position: absolute;
+width: 127.09px;
+height: 110px;
+left: calc(50% - 127.09px/2 + 288.2px);
+top: 86px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+/* Text colors/На зелёном фоне */
+color: #F5F0E8;
+
+
+
+/* Россия, Москва, ул. Пушкина, 12с1 Россия, Москва, ул. Павелецкая, 8 Россия, Москва, ул. Фрунзе, 11 */
+
+position: absolute;
+width: 250.17px;
+height: 66px;
+left: calc(50% - 250.17px/2 - 212.91px);
+top: 191px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/На зелёном фоне */
+color: #F5F0E8;
+
+
+
+/* Показать на карте ↗ */
+
+position: absolute;
+width: 147.1px;
+height: 22px;
+left: calc(50% - 147.1px/2 + 47.55px);
+top: 191px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/На зелёном фоне */
+color: #F5F0E8;
+
+
+
+/* Контакты */
+
+position: absolute;
+width: 158.11px;
+height: 140.05px;
+left: 1435.83px;
+top: 51px;
+
+
+
+/* Контакты */
+
+position: absolute;
+width: 105.07px;
+height: 24px;
+left: calc(50% - 105.07px/2 + 531.37px);
+top: 51px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+
+/* Text colors/Белый */
+color: #FFFFFF;
+
+
+
+/* +7 (999) 123-45-67 chubbyhippo@mail.ru */
+
+position: absolute;
+width: 156.11px;
+height: 44px;
+left: calc(50% - 156.11px/2 + 556.89px);
+top: 85px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/На зелёном фоне */
+color: #F5F0E8;
+
+
+
+/* Ellipse 38 */
+
+position: absolute;
+width: 45.08px;
+height: 45.05px;
+left: calc(50% - 45.08px/2 + 499.37px);
+top: 146px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Ellipse 39 */
+
+position: absolute;
+width: 45.08px;
+height: 45.05px;
+left: calc(50% - 45.08px/2 + 555.89px);
+top: 146px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Ellipse 40 */
+
+position: absolute;
+width: 45.08px;
+height: 45.05px;
+left: calc(50% - 45.08px/2 + 612.4px);
+top: 146px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* © 2026 Chubby Hippo */
+
+position: absolute;
+width: 144.1px;
+height: 19px;
+left: calc(50% - 144.1px/2 - 566.95px);
+top: 235px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(245, 240, 232, 0.85);
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 155px;
+height: 0px;
+left: calc(50% - 155px/2 + 284.14px);
+top: 51px;
+
+opacity: 0.45;
+/* Primary Green/200 */
+border: 2px solid #D7DDCB;
+transform: rotate(90deg);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 155px;
+height: 0px;
+left: calc(50% - 155px/2 + 536.32px);
+top: 53px;
+
+opacity: 0.45;
+/* Primary Green/200 */
+border: 2px solid #D7DDCB;
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 23.02px;
+height: 21px;
+left: calc(50% - 23.02px/2 + 497.35px);
+top: 158px;
+
+background: #737B5F;
+
+
+/* Vector */
+
+position: absolute;
+width: 25.02px;
+height: 16px;
+left: calc(50% - 25.02px/2 + 554.39px);
+top: 162px;
+
+background: #737B5F;
+
+
+/* ватсап */
+
+position: absolute;
+width: 25.14px;
+height: 26px;
+left: 1558.92px;
+top: 155px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 13.71px;
+height: 13.67px;
+left: calc(50% - 13.71px/2 + 612.49px);
+top: 160.71px;
+
+background: #737B5F;
+
+
+/* Vector */
+
+position: absolute;
+width: 25.14px;
+height: 26px;
+left: calc(50% - 25.14px/2 + 612.49px);
+top: 155px;
+
+background: #737B5F;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 72.18px;
+height: 73px;
+left: 400px;
+top: 56px;
+
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 64.32px;
+height: 66.35px;
+left: calc(50% - 64.32px/2 - 523.54px);
+top: 60.13px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Vector 7 (Stroke) */
+
+position: absolute;
+width: 65.28px;
+height: 66.09px;
+left: calc(50% - 65.28px/2 - 522.91px);
+top: 59.45px;
+
+background: #737B5F;
+
+
+/* Vector 7 (Stroke) (Stroke) */
+
+position: absolute;
+width: 72.18px;
+height: 73px;
+left: calc(50% - 72.18px/2 - 522.91px);
+top: 56px;
+
+/* Warm Neutral/Logo beige */
+background: #F5F0E8;
+
+
+/* Ellipse 31 */
+
+position: absolute;
+width: 7.06px;
+height: 7.06px;
+left: calc(50% - 7.06px/2 - 514.67px);
+top: 77.42px;
+
+background: #737B5F;
+
+
+/* Vector */
+
+position: absolute;
+width: 35.84px;
+height: 34.37px;
+left: calc(50% - 35.84px/2 + 664.92px);
+top: 27px;
+
+background: #FFF2F7;
+transform: rotate(-10.04deg);
+
+
+/* MatchaHippoФутер */
+
+position: absolute;
+width: 157px;
+height: 176px;
+left: 325px;
+top: 2328px;
+
+background: url(ChatGPT Image 5 мая 2026 г., 15_09_55.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Шапка */
+
+position: absolute;
+width: 1920px;
+height: 107px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 125 */
+
+position: absolute;
+width: 1920px;
+height: 107px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.7);
+
+
+/* лого */
+
+position: absolute;
+width: 224px;
+height: 40px;
+left: calc(50% - 224px/2 - 524px);
+top: 32px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* контакты */
+
+position: absolute;
+width: 129px;
+height: 33px;
+left: 1473px;
+top: 42px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 129px;
+height: 33px;
+left: 1473px;
+top: 42px;
+
+filter: drop-shadow(0px 0px 16.4px rgba(255, 255, 255, 0.39));
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 529.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Ellipse 50 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 577.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Ellipse 51 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: calc(50% - 33px/2 + 625.5px);
+top: 42px;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: calc(50% - 18px/2 + 528px);
+top: 50px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 19px;
+height: 12px;
+left: calc(50% - 19px/2 + 576.5px);
+top: 53px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* ватсап */
+
+position: absolute;
+width: 19.67px;
+height: 20.34px;
+left: 1576px;
+top: 48px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 10.73px;
+height: 10.69px;
+left: calc(50% - 10.73px/2 + 625.84px);
+top: 52.47px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 19.67px;
+height: 20.34px;
+left: calc(50% - 19.67px/2 + 625.84px);
+top: 48px;
+
+/* Text colors/Белый */
+background: #FFFFFF;
+
+
+/* меню */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 483px;
+height: 18px;
+left: calc(50% - 483px/2 + 1px);
+top: 49px;
+
+
+
+/* Главный экран */
+
+width: 151px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* О нас */
+
+width: 57px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Доставка */
+
+width: 92px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Контакты */
+
+width: 93px;
+height: 18px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.11em;
+
+/* Primary Green/600 */
+color: #626A51;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
