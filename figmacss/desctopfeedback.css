@@ -1,0 +1,595 @@
+/* Компьютер4 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+overflow-y: scroll;
+
+
+
+/* Rectangle 144 */
+
+position: absolute;
+width: 1061px;
+height: 1389px;
+left: 430px;
+top: 0px;
+
+background: #FFFFFF;
+/* Primary Green/100 */
+border: 2px solid #E8ECDF;
+border-radius: 30px;
+
+
+/* Поделитесь впечатлениями */
+
+position: absolute;
+width: 760px;
+height: 65px;
+left: 520px;
+top: 65px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 56px;
+
+/* Text colors/Заголовок */
+color: #4D5441;
+
+
+
+/* Телефон */
+
+position: absolute;
+width: 789px;
+height: 68px;
+left: 520px;
+top: 963px;
+
+
+
+/* Rectangle 148 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 789px;
+height: 68px;
+left: 520px;
+top: 963px;
+
+background: #FFFFFF;
+/* Primary Green/300 */
+border: 2px solid #B8BFA6;
+border-radius: 20px;
+
+
+/* +7 */
+
+position: absolute;
+width: 20px;
+height: 29px;
+left: 551px;
+top: 981px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Имя */
+
+position: absolute;
+width: 789px;
+height: 68px;
+left: 520px;
+top: 797px;
+
+
+
+/* Rectangle 146 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 789px;
+height: 68px;
+left: 520px;
+top: 797px;
+
+background: #FFFFFF;
+/* Primary Green/300 */
+border: 2px solid #B8BFA6;
+border-radius: 20px;
+
+
+/* Имя */
+
+position: absolute;
+width: 43px;
+height: 29px;
+left: 551px;
+top: 816px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Вторичный */
+color: #8B847E;
+
+
+
+/* Отзыв */
+
+position: absolute;
+width: 789px;
+height: 278px;
+left: 520px;
+top: 421px;
+
+
+
+/* Rectangle 145 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 789px;
+height: 278px;
+left: 520px;
+top: 421px;
+
+background: #FFFFFF;
+/* Primary Green/300 */
+border: 2px solid #B8BFA6;
+border-radius: 25px;
+
+
+/* Текст отзыва */
+
+position: absolute;
+width: 128px;
+height: 29px;
+left: 551px;
+top: 443px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Вторичный */
+color: #8B847E;
+
+
+
+/* Оценка */
+
+position: absolute;
+width: 302px;
+height: 101px;
+left: 510px;
+top: 222px;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 29px;
+left: 538px;
+top: 294px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 11px;
+height: 29px;
+left: 597px;
+top: 294px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 11px;
+height: 29px;
+left: 656px;
+top: 294px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 12px;
+height: 29px;
+left: 715px;
+top: 294px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 11px;
+height: 29px;
+left: 774px;
+top: 294px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Star 1 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 510px;
+top: 222px;
+
+/* Primary Green/600 */
+background: #626A51;
+border-radius: 4px;
+
+
+/* Star 2 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 569px;
+top: 222px;
+
+/* Primary Green/100 */
+background: #E8ECDF;
+border-radius: 4px;
+
+
+/* Star 3 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 628px;
+top: 222px;
+
+/* Primary Green/100 */
+background: #E8ECDF;
+border-radius: 4px;
+
+
+/* Star 4 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 687px;
+top: 222px;
+
+/* Primary Green/100 */
+background: #E8ECDF;
+border-radius: 4px;
+
+
+/* Star 5 */
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 746px;
+top: 222px;
+
+/* Primary Green/100 */
+background: #E8ECDF;
+border-radius: 4px;
+
+
+/* Ваша оценка от 1 до 5 * : */
+
+position: absolute;
+width: 528px;
+height: 29px;
+left: 520px;
+top: 174px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Нажимая кнопку «Отправить», вы соглашаетесь на обработку персональных данных. */
+
+position: absolute;
+width: 528px;
+height: 44px;
+left: 520px;
+top: 1184px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Вторичный */
+color: #8B847E;
+
+
+
+/* Кнопочка */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 36px;
+gap: 16px;
+
+position: absolute;
+width: 229px;
+height: 65px;
+left: 520px;
+top: 1254px;
+
+/* Primary Green/500 */
+background: #737B5F;
+box-shadow: 0px 6px 18px rgba(84, 87, 75, 0.12);
+border-radius: 999px;
+
+
+/* Больше фото */
+
+width: 116px;
+height: 22px;
+
+font-family: 'SeoulHangang';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+
+/* Text colors/На зелёном фоне */
+color: #F5F0E8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* VectorArrow */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16%;
+right: 24%;
+top: 0%;
+bottom: 0%;
+
+/* Text colors/На зелёном фоне */
+background: #F5F0E8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* * пункт обязателен для заполнения */
+
+position: absolute;
+width: 342px;
+height: 29px;
+left: 520px;
+top: 1071px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Ваш отзыв: */
+
+position: absolute;
+width: 112px;
+height: 29px;
+left: 520px;
+top: 376px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Ваш номер телефона * : */
+
+position: absolute;
+width: 528px;
+height: 29px;
+left: 520px;
+top: 918px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Ваше имя * : */
+
+position: absolute;
+width: 528px;
+height: 29px;
+left: 520px;
+top: 752px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text colors/Основной текст */
+color: #5F5A55;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 73.44%;
+right: 24.79%;
+top: 4.26%;
+bottom: 92.59%;
+
+/* Primary Green/600 */
+background: #626A51;
+
+
+/* Vector */
+
+position: absolute;
+width: 58.13px;
+height: 55.74px;
+left: calc(50% - 58.13px/2 + 347.06px);
+top: 443px;
+
+background: #FECDD3;
+transform: rotate(-33.69deg);
+
+
+/* WritingHippo */
+
+position: absolute;
+width: 384px;
+height: 384px;
+left: 1050px;
+top: 983px;
+
+background: url(WritingHippo.png);

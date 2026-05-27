@@ -1098,6 +1098,41 @@ h3 {
   margin-top: 17px;
 }
 
+.footer__review-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin-top: 17px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--cream);
+  box-shadow: none;
+  cursor: pointer;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0;
+  white-space: nowrap;
+  transition:
+    transform 220ms ease;
+}
+
+.footer__review-button::after {
+  content: " ↗";
+}
+
+.footer__review-button:hover {
+  background: transparent;
+  transform: translateY(-2px);
+}
+
+.footer__review-button:active {
+  transform: translateY(0) scale(0.98);
+}
+
 .socials--footer a {
   width: 45px;
   height: 45px;
@@ -1122,6 +1157,298 @@ h3 {
   right: calc(50% - 664px);
   width: 36px;
   transform: rotate(-10deg);
+}
+
+/* Feedback overlay */
+
+body.feedback-open {
+  overflow: hidden;
+}
+
+.feedback-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  overflow-y: auto;
+  background: rgba(0, 0, 0, 0.76);
+}
+
+.feedback-overlay[hidden] {
+  display: none;
+}
+
+.feedback-dialog {
+  position: relative;
+  width: 1061px;
+  min-height: 1389px;
+  margin: 32px auto;
+  padding: 65px 90px 70px;
+  border: 2px solid #e8ecdf;
+  border-radius: 30px;
+  background: var(--white);
+  color: var(--text);
+}
+
+.feedback-dialog h2 {
+  width: 760px;
+  color: var(--green-dark);
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: 1;
+  text-align: left;
+}
+
+.feedback-close {
+  position: absolute;
+  top: 43px;
+  right: 48px;
+  width: 52px;
+  height: 52px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.feedback-close::before,
+.feedback-close::after {
+  position: absolute;
+  top: 24px;
+  left: 5px;
+  width: 42px;
+  height: 6px;
+  border-radius: 999px;
+  background: #626a51;
+  content: "";
+}
+
+.feedback-close::before {
+  transform: rotate(45deg);
+}
+
+.feedback-close::after {
+  transform: rotate(-45deg);
+}
+
+.feedback-form {
+  position: static;
+  margin-top: 49px;
+}
+
+.feedback-field {
+  display: block;
+  width: 789px;
+}
+
+.feedback-field + .feedback-field {
+  margin-top: 46px;
+}
+
+.feedback-field--review {
+  margin-top: 47px;
+}
+
+.feedback-field > span:not(.feedback-error),
+.feedback-rating__label {
+  display: block;
+  margin-bottom: 19px;
+  color: var(--text);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.feedback-field input,
+.feedback-field textarea {
+  display: block;
+  width: 100%;
+  border: 2px solid #b8bfa6;
+  background: var(--white);
+  color: var(--text);
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.2;
+  font-feature-settings: "pnum" on, "lnum" on;
+  outline: none;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease;
+}
+
+.feedback-field input {
+  height: 68px;
+  padding: 0 30px;
+  border-radius: 20px;
+}
+
+.feedback-field textarea {
+  height: 278px;
+  padding: 23px 30px;
+  resize: none;
+  border-radius: 25px;
+}
+
+.feedback-field input::placeholder,
+.feedback-field textarea::placeholder {
+  color: #8b847e;
+  opacity: 1;
+}
+
+.feedback-field input:focus,
+.feedback-field textarea:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 4px rgba(115, 123, 95, 0.12);
+}
+
+.feedback-field.is-invalid input {
+  border-color: #c96c78;
+  box-shadow: 0 0 0 4px rgba(201, 108, 120, 0.12);
+}
+
+.feedback-error {
+  min-height: 21px;
+  margin-top: 8px;
+  color: rgba(183, 85, 98, 0.58);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.15;
+}
+
+.feedback-rating {
+  width: 302px;
+}
+
+.feedback-rating__stars {
+  display: flex;
+  width: 282px;
+  gap: 13px;
+  margin-left: 0;
+}
+
+.feedback-star {
+  display: grid;
+  width: 46px;
+  height: 44px;
+  margin-right: 0;
+  padding: 0;
+  place-items: center;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 4px;
+  transition:
+    transform 160ms ease;
+}
+
+.feedback-star:last-child {
+  margin-right: 0;
+}
+
+.feedback-star__icon {
+  display: block;
+  width: 46px;
+  height: 44px;
+  object-fit: contain;
+  filter: none;
+  transition: filter 160ms ease;
+}
+
+.feedback-star.is-active {
+  filter: brightness(0) saturate(100%) invert(40%) sepia(10%) saturate(742%) hue-rotate(38deg) brightness(94%) contrast(88%);
+}
+
+.feedback-star:hover {
+  transform: translateY(-2px);
+}
+
+.feedback-rating__numbers {
+  display: flex;
+  gap: 13px;
+  margin-top: 21px;
+  margin-left: 0;
+  color: var(--text);
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.feedback-rating__numbers span {
+  width: 46px;
+  margin-right: 0;
+  text-align: center;
+}
+
+.feedback-rating__numbers span:last-child {
+  margin-right: 0;
+}
+
+.feedback-required-note {
+  margin-top: 34px;
+  color: var(--text);
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.feedback-consent {
+  width: 528px;
+  margin-top: 83px;
+  color: #8b847e;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.feedback-submit {
+  margin-top: 27px;
+  border: 0;
+  cursor: pointer;
+}
+
+.feedback-flower {
+  position: absolute;
+  top: 443px;
+  left: 848px;
+  width: 58px;
+  transform: rotate(-33.69deg);
+  pointer-events: none;
+}
+
+.feedback-hippo {
+  position: absolute;
+  right: 57px;
+  bottom: 22px;
+  width: 384px;
+  pointer-events: none;
+}
+
+.feedback-toast {
+  position: fixed;
+  top: 32px;
+  left: 50%;
+  z-index: 110;
+  max-width: 620px;
+  padding: 18px 28px;
+  border-radius: 20px;
+  background: var(--green);
+  color: var(--cream);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.18);
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.2;
+  text-align: center;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, -14px);
+  transition:
+    opacity 220ms ease,
+    transform 220ms ease;
+}
+
+.feedback-toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
 }
 
 /* Menu page */
